@@ -1,0 +1,110 @@
+[6]  # Version number. Do not delete, for license see at the bottom of file.
+
+[colors]
+
+background0:                            1D2021FF
+background1:                            1D2021FF
+background2:                            1D2021FF
+background3:                            1D2021FF
+background4:                            1D2021FF
+selection_active:                       689D6A80
+selection_inactive:                     FABD2F40
+selection_highlight:                    FABD2F40
+search_result_active:                   8E772EFF
+search_result_inactive:                 FCEDFC26
+
+scrollbar:                              689D6A90
+scrollbar_hover:                        665C54FF
+scrollbar_background:                   50494599
+
+cursor:                                 EBDBB2FF
+cursor_inactive:                        EBDBB255
+paste_animation:                        D4BE9822
+splitter:                               8E2A2AFF
+splitter_hover:                         282828FF
+letter_highlight:                       D79921FF
+list_cursor_lite:                       B82A2A19
+list_cursor:                            D4BE984C
+shadow_dark:                            1D202130
+shadow_transparent:                     1D202100
+text_input_label:                       D4BE98FF
+
+ui_default:                             EBDBB2FF
+ui_dim:                                 EBDBB2AA
+ui_neutral:                             4C4C4CFF
+ui_warning:                             D7992180
+ui_warning_dim:                         986032FF
+ui_error:                               772222FF
+ui_error_bright:                        FF0000FF
+ui_success:                             227722FF
+
+region_scope_export:                    1D2021FF
+region_scope_file:                      1D2021FF
+region_scope_module:                    1D2021FF
+region_header:                          1A5152FF
+region_success:                         226022FF
+region_warning:                         986032FF
+region_error:                           FB4934FF
+region_heredoc:                         23201FFF
+
+build_panel_background:                 1D2021FF
+build_panel_scrollbar:                  3C3836FF
+build_panel_scrollbar_hover:            33CCCC4C
+build_panel_scrollbar_background:       10191F4C
+build_panel_title_bar:                  282828FF
+
+code_default:                           EBDBB2FF
+code_comment:                           928374FF
+code_type:                              FABD2FFF
+code_function:                          FB4934FF
+code_punctuation:                       928374FF
+code_operation:                         8EC07CFF
+code_string_literal:                    B8BB26FF
+code_value:                             D3869BFF
+code_highlight:                         D548E0FF
+code_error:                             FB4934FF
+code_keyword:                           FB4934FF
+code_warning:                           D7992180
+code_invalid:                           CC241DFF
+code_multiline_string:                  A9B665FF
+code_raw_string:                        A9B665FF
+code_char_literal:                      A9B665FF
+code_identifier:                        BDAE93FF
+code_note:                              E0AD82FF
+code_number:                            D3869BFF
+code_multiline_comment:                 928374FF
+code_modifier:                          FB4934FF
+code_attribute:                         FABD2FFF
+code_enum_variant:                      BFC9DBFF
+code_macro:                             83A598FF
+code_builtin_variable:                  D3869BFF
+code_builtin_function:                  E0AD82FF
+code_builtin_exception:                 E0AD82FF
+code_directive:                         8EC07CFF
+code_directive_modifier:                8EC07CFF
+code_header:                            E0AD82FF
+code_header2:                           E0AD82FF
+code_header3:                           E0AD82FF
+code_header4:                           E0AD82FF
+code_header5:                           E0AD82FF
+code_header6:                           E0AD82FF
+
+# Copyright © 2017 LindenByte
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
