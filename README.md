@@ -1,6 +1,9 @@
 # Gruvbox Hard Theme
-My theme based of Gruvbox Hard for the new Focus editor.
-> **NOTE:** If you find anythin that you consider colored wrong with the theme (within limitations of the editor), feel free to submit an issue with an image and description of your problem. **Or** open a new pull request.
+Theme based of Gruvbox Hard for the new Focus editor.
+
+![Screenshot of the theme taken from the "edit theme" window.](/res/screenshot.png?raw=true "Gruvbox Dark Hard")
+
+> **NOTE:** As Iw created the theme, while still learning the editor and not running into all the edge cases there might be coloring issues. Repo is open to contribution, self modifications or making your own forks.
 
 ## Installation:
 To install the theme, copy & paste the "gruvbox-dark-hard.focus-theme" file into your local installation of Focus's theme folder. *(Ex "C:\Program Files\Focus\themes")*
