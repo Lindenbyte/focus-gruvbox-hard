@@ -32,8 +32,8 @@ text_input_label:                       D4BE98FF
 ui_default:                             EBDBB2FF
 ui_dim:                                 EBDBB2AA
 ui_neutral:                             4C4C4CFF
-ui_warning:                             D7992180
-ui_warning_dim:                         986032FF
+ui_warning:                             FABD2FFF
+ui_warning_dim:                         FABD2F80
 ui_error:                               772222FF
 ui_error_bright:                        FF0000FF
 ui_success:                             227722FF
@@ -43,9 +43,9 @@ region_scope_file:                      1D2021FF
 region_scope_module:                    1D2021FF
 region_header:                          1A5152FF
 region_success:                         226022FF
-region_warning:                         986032FF
-region_error:                           FB4934FF
-region_heredoc:                         23201FFF
+region_warning:                         FABD2F80
+region_error:                           772222FF
+region_heredoc:                         1A515215
 
 build_panel_background:                 1D2021FF
 build_panel_scrollbar:                  3C3836FF
@@ -89,7 +89,7 @@ code_header4:                           E0AD82FF
 code_header5:                           E0AD82FF
 code_header6:                           E0AD82FF
 
-# Copyright © 2017 LindenByte
+# Copyright © 2024 LindenByte
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
